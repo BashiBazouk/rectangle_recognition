@@ -42,9 +42,9 @@ There are some hardcoding made in script to find optimal way of finding sashes a
 To remove hardcoding, more screenshots is needed. 
 
 ### To do
-[ ] remove hardcoding (as much as possible)
-[ ] add auto threshold recognition
-[ ] characters recognition (if sequence of sashes is not very obvius)
+[ ] remove hardcoding (as much as possible)<br>
+[ ] add auto threshold recognition<br>
+[ ] characters recognition (if sequence of sashes is not very obvius)<br>
 
 ## Summary
 As proof of concept script is succesful. It recognizes sashes and only sashes. Without more screenshots it is difficult to find which part of script need to be adjusted.
